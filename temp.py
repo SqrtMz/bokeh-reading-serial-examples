@@ -1,5 +1,3 @@
-import pandas as pd
-import numpy as np
 import serial
 import serial.tools.list_ports
 import time
